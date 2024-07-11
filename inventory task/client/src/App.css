@@ -1,0 +1,20 @@
+.dashboard-container {
+  display: flex;
+  flex-direction: row;
+}
+
+.dashboard-content {
+  flex: 1;
+  padding: 20px;
+}
+
+.product-component {
+  margin-bottom: -1000px;
+  background-color: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  width: 990px;
+  height: 550px;
+  float: right;
+}

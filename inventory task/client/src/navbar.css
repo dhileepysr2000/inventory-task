@@ -1,0 +1,52 @@
+.over-body {
+  background-color: black;
+  color: aliceblue;
+  padding: 4rem;
+  position: relative;
+}
+.head-cont {
+  display: flex;
+  justify-content: space-between;
+}
+.body-3 {
+  padding: 2%;
+  background-color: aliceblue;
+  width: 90%;
+  position: absolute;
+  display: flex;
+  justify-content: space-between;
+}
+a {
+  text-decoration: none;
+}
+.con-1 {
+  padding: 3%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10%;
+  width: 200px;
+}
+
+.con-2 {
+  padding: 3%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10%;
+  width: 200px;
+}
+.con-3 {
+  padding: 3%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  border-radius: 10%;
+  width: 200px;
+}
+.icons {
+  font-size: 100px;
+}
+.con-1:hover {
+  background-color: black;
+}
+.con-2:hover {
+  background-color: black;
+}
+.con-3:hover {
+  background-color: black;
+}

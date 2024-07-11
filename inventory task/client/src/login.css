@@ -1,0 +1,47 @@
+.body-1 {
+  margin-top: 5%;
+  padding: 5%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.head-1 {
+  margin-top: 2%;
+  font-size: larger;
+}
+.but-1 {
+  background-color: blue;
+  color: white;
+  font-size: smaller;
+  font-weight: bold;
+  outline: none;
+  border: blue;
+  padding: 2% 5%;
+}
+.inp1 {
+  width: 250px;
+}
+.body-2 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.form-1 {
+  min-height: 300px;
+  width: 500px;
+  margin-top: 5%;
+  padding: 5%;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.inp2 {
+  width: 250px;
+}
+.but-2 {
+  background-color: blue;
+  color: white;
+  font-size: smaller;
+  font-weight: bold;
+  outline: none;
+  border: blue;
+  padding: 2% 5%;
+  margin-left: 30%;
+}
